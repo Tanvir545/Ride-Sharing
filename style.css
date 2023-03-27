@@ -79,6 +79,8 @@ padding: 0 10px;
 .service-img{
     width: 100px;
     margin-top: 20px;
+    background-color: #7b1798; 
+    border-radius: 50%;
 }
 .services{
    padding: 25px; 
@@ -124,7 +126,34 @@ transform: translatey(63px);
         background-image: linear-gradient(to right,#a517ba,#5f1782);
     }
 /*services end*/
+.why{
+   height: auto;
+   width: 500px;
+   padding-top: 80px;
+}
 
+.safety-new{
+    width: 90%;
+    height: 60%;
+}
+
+#safen1{
+    padding-bottom: 10px;
+    margin-left: 20px;
+}
+
+
+#safen2{
+    margin-left: 40px;
+    padding-bottom: 10px;
+}
+.safe1{
+padding-top: 30px;
+}
+.safe2{
+    margin-left: 30px;
+    padding-top: 30px;
+}
 /*about-us start*/
 #about-us{
     background: #f8f9fa;
