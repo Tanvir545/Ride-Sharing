@@ -152,7 +152,7 @@ transform: translatey(63px);
    padding-top: 80px;
 }
 
-@media(max-width:220px){
+@media(max-width:768px){
     .why{
         padding-right: 50px;
         
